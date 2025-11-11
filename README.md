@@ -1,5 +1,9 @@
 # GS2-Alexandre
+integrantes: 
 
+André Ayello de Nobrega: RM561754
+André Gouveia de Lima: RM564219
+Mirella Mascarenhas: RM562092
 Career Advisor - Orientador de Carreiras (CLI)
 
 Descrição do projeto e propósito
