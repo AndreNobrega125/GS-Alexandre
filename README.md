@@ -1,1 +1,1 @@
-# GS-Alexandre
+# GS2-Alexandre
