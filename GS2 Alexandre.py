@@ -1,3 +1,8 @@
+""" Integrantes: 
+André Ayello de Nobrega: rm561754
+André Gouveia de Lima: rm564219
+Mirella Mascarenhas: rm562092
+"""
 from dataclasses import dataclass, field
 from typing import Dict, List, Tuple
 
@@ -295,3 +300,4 @@ def main() -> None:
 
 if __name__ == "__main__":
 	main()
+
