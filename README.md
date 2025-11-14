@@ -7,7 +7,8 @@ Mirella Mascarenhas: RM562092
 
 Career Advisor - Orientador de Carreiras (CLI)
 
-Descrição do projeto e propósito
+Descrição do projeto e propósito:
+
 Este projeto é uma aplicação em Python orientada a objetos que analisa perfis profissionais com base em competências técnicas e comportamentais (ex.: lógica, programação, colaboração, adaptabilidade). A partir dos dados informados pelo usuário, a ferramenta calcula a aderência a diferentes carreiras do futuro, destaca lacunas (gaps) e sugere trilhas de aprendizado para evolução.
 
 Recursos principais
